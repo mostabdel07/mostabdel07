@@ -7,6 +7,8 @@ Always with a positive energy and passion for programming.
 ## Skills and Experience
 * ⚛️ React / Laravel / Angular
 * 💻 PHP / Java / JS / HTML / CSS
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mostabdel07)](https://github.com/anuraghazra/github-readme-stats)
  
 - 🌱 I’m currently learning Next.js 
 - 📫 How to reach me: mostabdel07@gmail.com 
