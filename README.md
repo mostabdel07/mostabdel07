@@ -1,5 +1,16 @@
-### Hi there 👋
+### Hi there 👋, I'm Mostafa Abdel-illah
+#### Web Developer
+![Web Developer](https://media.licdn.com/dms/image/D4D16AQH0u5nUxUrcJw/profile-displaybackgroundimage-shrink_350_1400/0/1674723669001?e=1702512000&v=beta&t=IJVcBqgwYAdxnYbPCFrP7ZIZbkAgZTK5zAIJ83qV97M)
 
-I'm Msotafa fro,  I'm a Web Developer. I really enjoy learning programming languages and frameworks like React and Laravel, as well as work on styling and design with CSS and other tools.
+Fast learning in web development, with great enthusiasm for new technologies. I really enjoy learning programming languages and frameworks like React and Laravel, as well as work on styling and design with CSS and other tools.
+Always with a positive energy and passion for programming.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mostabdel07)](https://github.com/anuraghazra/github-readme-stats)
+Skills: REACT / Laravel / Java / JS / HTML / CSS
+
+- 🔭 I’m currently working on this page. 
+- 🌱 I’m currently learning Next.js 
+- 📫 How to reach me: mostabdel07@gmail.com 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mostabdel07)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mostafabdelillah/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](abdelillahmostafa.com)  
+
