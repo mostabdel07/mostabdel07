@@ -8,8 +8,7 @@ Always with a positive energy and passion for programming.
 * ⚛️ React / Laravel / Angular
 * 💻 PHP / Java / JS / HTML / CSS
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mostabdel07)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mostabdel07)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mostabdel07&layout=donut-horizontal)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🌱 I’m currently learning Next.js 
 - 📫 How to reach me: mostabdel07@gmail.com 
