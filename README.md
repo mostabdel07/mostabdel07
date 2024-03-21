@@ -1,4 +1,4 @@
-![Web Developer](https://media.licdn.com/dms/image/D4D16AQH0u5nUxUrcJw/profile-displaybackgroundimage-shrink_350_1400/0/1674723669001?e=1702512000&v=beta&t=IJVcBqgwYAdxnYbPCFrP7ZIZbkAgZTK5zAIJ83qV97M)
+Software Developer  
 
 # Mostafa Abdel-illah
 Software developer full-stack specializing in back-end technologies while proficient in front-end development. Dedicated to problem-solving and committed to ongoing learning. Proactive team player eager to enhance project success through personal initiatives and technical expertise.
@@ -7,6 +7,7 @@ Software developer full-stack specializing in back-end technologies while profic
 ⚛️ Back-end  
       * Languages: C# / Java / PHP   
       * Frameworks: .NET / Laravel / Symfony / Node.js  
+
 💻 Front-end  
       * Languages: JavaScript / TypeScript / HTML / CSS    
       * Frameworks: React / Next.js / Angular / Bootstrap / Tailwind  
